@@ -1,4 +1,4 @@
-Welcome to my first project!
+Welcome to "Git for beginners" myproject!
 
 Author: David Chibutondu Ikeh
 
