@@ -1,5 +1,5 @@
 Welcome to my first project!
 
-Author: Ikeh David
+Author: Ogunlade David
 
 Twitter: @IkehDavid
