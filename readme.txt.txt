@@ -1,5 +1,5 @@
 Welcome to my first project!
 
-Author: David
+Author: David Chibutondu
 
 Twitter: @IkehDavid
